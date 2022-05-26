@@ -206,7 +206,7 @@ Use the **.update({ new options })** method to update a declared global template
 
 ##
 # Release History
-*  Initial [ v1.0.0 ]
+*  Initial [ v1.0.1 ]
 
 ##
 # License
