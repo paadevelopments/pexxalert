@@ -73,7 +73,7 @@ const call = new pexxalert($, window, 'call', { anchor: 'body' });
 ```
 
 ## Declared Object Use
-**NOTE:** Use the previously declared global object anytime you want to display its relared alert. All you do is to set the new alert options as a parameter for the **.display({ new options })** method. Just like it's done below.
+**NOTE:** Use the previously declared global object anytime you want to display its related alert. All you do is to set the new alert options as a parameter for the **.display({ new options })** method. Just like it's done below.
 ```
 // For alert
 alert.display({ type : 'success', message : 'All went well' });
