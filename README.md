@@ -14,7 +14,15 @@ With 5 Fully customizable templates🎨.
 ![](/rep_res/lib_srn_sh5.png)
 
 ##
-##
+# Demo (A test run)
+## Follow the steps below to successully run the demo build.
+**Step 1.** Clone this repo to your local computer.<br>
+**Step 2.** Open your npm terminal and navigate to the 'demo' folder path within the cloned folder.<br>
+**Step 3.** Still on your terminal, run the command below to stage the demo build.<br>
+```
+npm start
+```
+**Step 4.** Access the staged build from your browser via ( http://localhost:3000/ ).<br>
 
 # Getting Started [ installation ]
 ## 1. By Source Reference

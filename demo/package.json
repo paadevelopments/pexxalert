@@ -1,0 +1,20 @@
+{
+  "name": "pexxalert_demo",
+  "version": "2.0.0",
+  "description": "A test run of the pexxalert library.",
+  "main": "test_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test_server.js"
+  },
+  "keywords": [
+    "demo",
+    "pexxalert"
+  ],
+  "author": "Paa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
